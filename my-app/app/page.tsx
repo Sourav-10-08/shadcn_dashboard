@@ -6,7 +6,7 @@ const Homepage = () => {
     <div className="h-screen flex items-center justify-center">
      <Button variant="destructive" size="lg" className="rounded-full">
       <CirclePlus />
-      Click Me
+
       </Button> 
       <Navbar />
     </div>
